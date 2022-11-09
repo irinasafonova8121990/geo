@@ -1,0 +1,18 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Улица": "ХЗ как называется"
+      },
+      "geometry": {
+        "coordinates": [
+          56.99808121039811,
+          57.42437461998753
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}
