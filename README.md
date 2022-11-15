@@ -7,5 +7,6 @@ flowchart LR
 
 ```mermaid
 flowchart LR
-id1[(ЕХД)]
+id1[(ЦФТ)] 
+
 ```
